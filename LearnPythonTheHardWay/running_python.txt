@@ -1,0 +1,6 @@
+Running Python programs
+Exercises http://learnpythonthehardway.org/book/
+
+cd C:\Users\Alex\Dropbox\programming\LearnPythonTheHardWay
+
+c:\Python27\python.exe ex_.py
