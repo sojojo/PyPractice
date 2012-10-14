@@ -1,3 +1,5 @@
+# Exercise 11: Asking Questions
+# using raw_input to get user input
 #more info on raw_input: http://docs.python.org/library/functions.html#raw_input
 
 print "How old are you?"

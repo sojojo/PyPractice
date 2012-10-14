@@ -1,3 +1,5 @@
+# Exercise 13: Parameters, Unpacking, Variables
+# learning about argv
 from sys import argv
 
 script, first, second, third = argv

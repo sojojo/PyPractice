@@ -1,3 +1,5 @@
+#Exercise 15: Reading Files
+#print the content of a user defined file to the console
 from sys import argv
 
 script, filename = argv
